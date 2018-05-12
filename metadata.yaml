@@ -1,0 +1,31 @@
+_repo: An-American-Girl-in-MunichImpressions-of-a-Music-Student_46102
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46102-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Daniels, Mabel W. (Mabel Wheeler)
+    alias: Daniels, Maybel W. (Maybel Wheeler)
+    birthdate: 1878
+    deathdate: 1971
+    gutenberg_agent_id: '43611'
+    url: http://www.gutenberg.org/2009/agents/43611
+description: ''
+gutenberg_issued: '2014-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46102'
+  lccn: 05008692
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Americans -- Germany -- Munich'
+- !lcsh 'Music -- Germany -- Munich -- History and criticism'
+- !lcsh 'Music students'
+- !lcsh 'Munich (Germany) -- Description and travel'
+- !lcc 'ML'
+title: 'An American Girl in Munich: Impressions of a Music Student'
+url: http://www.gutenberg.org/ebooks/46102
